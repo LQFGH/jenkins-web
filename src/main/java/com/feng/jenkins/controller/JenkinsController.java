@@ -10,7 +10,7 @@ package com.feng.jenkins.controller;
 public class JenkinsController {
 
 	public String jenkins() {
-		return "Hello Jenkins @@@";
+		return "Hello Jenkins @@@VVV";
 	}
 	
 }
